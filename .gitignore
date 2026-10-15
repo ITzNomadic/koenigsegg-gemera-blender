@@ -1,0 +1,27 @@
+# Blender temporary files and backups
+*.blend1
+*.blend2
+*BACKUP*.blend
+*EMERGENCY*.blend
+
+# Intermediate extraction caches & scratch scripts
+scratch/
+temp_*/
+Textures/
+converted_dds/
+converted_textures/
+gemera_swatchbins/
+gemera_wheel_lf.obj/
+tires/
+tires_michelin/
+*.bin
+carscene_KOE_Gemera_24_build_report.html
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+*.pyc
