@@ -129,11 +129,12 @@ blender -b "KOE_Gemera_24_AUTO_SAVE.blend" --python "scripts/batch_render_4k.py"
 
 ## 🤝 Credits & Acknowledgments
 
-This project was developed through an advanced collaborative AI engineering workflow:
+This project was developed through an advanced collaborative 3D and AI engineering workflow:
 
+* **[Jefry Blanco (@HexNomad23)](https://github.com/HexNomad23):** 3D modeling and asset refinement, mesh topology optimization, edge beveling, and normal smoothing across vehicle body panels and structural components.
 * **Antigravity (using Flash 3.8):** Autonomous agentic pipeline execution, 3D viewport inspection and spatial verification, mathematical wheel stance and fender clearance calculations, procedural tire mesh builder, dual-tangent normal map shader architecture, and the quadrant-based 12K tiled rendering engine.
 * **GPT-6 Astra:** Co-architectural design, asset pipeline integration from vehicle datasets, PBR material logic calibration, and collaborative contributions across the development workflow.
-* **Koenigsegg Automotive AB:** Design and engineering inspiration of the Koenigsegg Gemera.
+* **Koenigsegg Automotive AB:** Design and engineering inspiration of the Koenigsegg Gemera (*Mega-GT*).
 * **Turn 10 Studios:** Reference geometry and texture assets.
 
 ---
